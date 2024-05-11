@@ -558,7 +558,7 @@ public class Clonados extends javax.swing.JInternalFrame {
         actualizarTabla(true);
     }
 
-// Llamada para mostrar los magos
+// Llamada para mostrar los magos.
     private void actualizarTablaMagos() {
         actualizarTabla(false);
     }
